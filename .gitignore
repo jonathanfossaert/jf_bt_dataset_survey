@@ -1,0 +1,28 @@
+# Ignore a specific directory
+/Argoverse2/annotations
+/KITTI/kitti_lables
+/nuScenes/object_per_frame_NuS
+/nuScenes/v1.0-mini
+/nuScenes/v1.0-trainval_meta
+/ONCE/data_all
+/ONCE/labled_data
+/Waymo /label_all
+/Waymo /waymo-open-dataset-master
+/ZOD/~/data/zod/single_frames
+/ZOD/~/data/zod/downloads
+
+
+#specific files
+/nuScenes/ego_pose.json
+/nuScenes/sample_annotation.json
+/nuScenes/test_annotation.json
+/All Datasets - Data/360_Distribution/KITTI_xy_coord.json
+/All Datasets - Data/360_Distribution/ZOD_xy_coord.json
+/All Datasets - Data/360_Distribution/Waymo_xy_coord.json
+/All Datasets - Data/360_Distribution/ONCE_xy_coord.json
+/All Datasets - Data/360_Distribution/nuScenes_xy_coord.json
+/All Datasets - Data/360_Distribution/Argoverse2_xy_coord.json
+/All Datasets - Data/Object_Distances /Waymo_Obj_Distances.json
+/All Datasets - Data/Object_Distances /Argoverse2_Obj_Distances.json
+/ZOD/~/data/zod/trainval-frames-full.json
+
