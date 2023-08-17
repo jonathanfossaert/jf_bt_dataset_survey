@@ -1,0 +1,234 @@
+Cityscapes,2016,9736,25000,All Inclusive
+ KITTI ,2013,7232,15000,All Inclusive
+nuScenes,2020,2750,240000,All Inclusive
+SYNTHIA Dataset,2016,2021,200000,Task Specific - Segmentation
+Playing for Data,2016,1817,25000,Task Specific - Segmentation
+Caltech Pedestrian Detection Benchmark,2009,1685,250000,Task Specific - Pedestrian
+Waymo,2020,1437,230000,All Inclusive
+Matterport3D,2017,1245,194400,Sensor Data Specilized
+BDD100K,2018,1087,80000000,All Inclusive
+Mapillary Vistas Dataset ,2017,1055,2500,All Inclusive
+Caltech lanes,2008,1000,,Task Specific - Lane Detection 
+SemanticKITTI,2019,983,43552,Sensor Data Specilized
+"ETH Pedestrian
+",2008,834,,Task Specific - Pedestrian
+Beyond PASCAL,2014,819,,Task Specific - Detection
+Traffic-Sign Detection and Classification in the Wild,2016,790,100000,Task Specific - Traffic Sign
+KAIST Benchmark,2015,755,95328,Task Specific - Pedestrian
+highD - Highway Drone Dataset,2018,755,,V2V/V2X
+CityPersons,2017,744,,Task Specific - Pedestrian
+CULane Dataset,2017,717,133235,Task Specific - Lane Detection 
+Foggy Cityscapes,2018,669,20000,Bad Conditions
+SEMANTIC3D:NET,2017,650,,Task Specific - Segmentation
+TUD Brussels - ,2009,525,508,Task Specific - Pedestrian
+KUL Belgium Traffic Sign dataset,2011,472,9006,Task Specific - Traffic Sign
+Ua-detrac,2015,442,,Task Specific - Detection
+VPGNet,2017,400,21097,Task Specific - Lane Detection 
+Ford autonomous vehicle dataset,2010,378,,All Inclusive
+No crash ?,2019,361,,Task Specific - Other
+Collective Activity Dataset,2009,351,,Task Specific - Other
+"University of Michigan North Campus
+Long-Term Vision and Lidar Dataset",2015,349,,Sensor Data Specilized
+MVSEC,2018,307,,All Inclusive
+ApolloScape,2018,276,143906,All Inclusive
+INTERACTION Dataset,2019,276,10479,V2V/V2X
+The Málaga Stereo and Laser Urban Data Set,2013,262,,All Inclusive
+Oxford Radar RobotCar ,2019,259,2400000,Sensor Data Specilized
+A2D2,2020,251,41277,All Inclusive
+Paris-Lille-3D,2017,231,143100000,Sensor Data Specilized
+Bosch Small Traffic Lights Dataset,2017,231,13427,Task Specific - Traffic Sign
+Veri-wild,2019,228,,Task Specific - Other
+DR(eye)VE ,2017,224,555000,Task Specific - Other
+IDD,2018,221,10004,Task Specific - Other
+One Thousand and One Hours Lyft Level 5,2020,218,170000,All Inclusive
+"inD Dataset
+Road User Trajectories at German Intersections",2019,217,,V2V/V2X
+Boxcars,2016,208,,Task Specific - Other
+TRANCOS Dataset,2015,203,1244,Task Specific - Other
+PIE,2019,199,911000,Task Specific - Other
+WoodScape,2019,189,425000,Sensor Data Specilized
+H3D Dataset ,2019,187,1000000,All Inclusive
+TME MOTORWAY DATASET,2012,186,,Task Specific - Detection
+TorontoCity,2016,179,,Task Specific - Segmentation
+"Need Data for Driver Behaviour Analysis?
+Presenting the Public UAH-DriveSet",2016,175,,Task Specific - Other
+"Complex urban dataset with multi-level
+sensors from highly diverse urban
+environments",2019,167,,Task Specific - Other
+Nighttime Driving - Dataset ,2018,163,35000,Bad Conditions
+Roundabouts,2019,159,,Task Specific - Other
+Synscapes,2018,155,25000,All Inclusive
+WildDash ,2018,150,1800,Task Specific - Segmentation
+VEIS,2018,148,61305,Task Specific - Segmentation
+Automotive Radar Dataset for Deep Learning Based 3D Object Detection,2019,139,500,Sensor Data Specilized
+Virtual KITTI 2,2020,135,,All Inclusive
+LostAndFoundDataset,2016,134,2104,Task Specific - Anomaly
+CAOS Dataset,2022,130,8000,Task Specific - Anomaly
+ CADC,2020,129,263.637,Bad Conditions
+ACDC,2021,129,4006,Bad Conditions
+MulRan,2020,129,,Task Specific - Other
+KITTI-360,2021,124,300000,All Inclusive
+Paris-rue-Madame,2014,122,10000000,Sensor Data Specilized
+DBNet,2018,115,10000,Task Specific - Other
+Toronto-3D,2020,113,,Task Specific - Segmentation
+RADIATE,2020,103,,Bad Conditions
+Generic 3D Representation via Pose Estimation and Matching,2016,97,25000000,Task Specific - Other
+JAAD,2016,97,,Task Specific - Other
+HEV-I ,2019,97,,Task Specific - Detection
+A*3D Dataset,2019,95,39179,All Inclusive
+rounD Dataset,2020,93,,V2V/V2X
+Argoverse 2,2023,87,6000000,All Inclusive
+"The Newer College Dataset: Handheld LiDAR, Inertial and Vision with Ground Truth - Oxford ",2020,84,,Sensor Data Specilized
+"Vehicle Image Database
+",2012,81,7000,Task Specific - Segmentation
+ONCE ,2021,80,7000000,All Inclusive
+PreSIL,2019,79,50000,All Inclusive
+CARRADA,2020,79,12666,Sensor Data Specilized
+CADP,2018,77,,Task Specific - Other
+OPV2V,2021,76,11464,V2V/V2X
+Fishyscapes ,2019,76,1030,Task Specific - Segmentation
+Titan Dataset ,2020,76,75262,Task Specific - Other
+LIBRE,2020,75,,Sensor Data Specilized
+OPV2V,2021,75,11464,V2V/V2X
+V2X-ViT,2022,74,11447,V2V/V2X
+CURE-TSR,2017,73,2206106,Task Specific - Traffic Sign
+NightOwls dataset,2019,72,297000,Bad Conditions
+NYC3DCars,2013,69,2000,Task Specific - Detection
+RUGD Dataset ,2019,67,37000,Task Specific - Segmentation
+EuroCity Persons ,2018,66,47300,Task Specific - Pedestrian
+EU Long-term Dataset with Multiple Sensors for Autonomous Driving,2020,61,,All Inclusive
+MOTSynth Dataset,2021,58,1382000,Task Specific - Pedestrian
+Unsupervised Labeled Lane Markers Using Maps,2019,56,100042,Task Specific - Lane Detection 
+SynthCity,2019,55,10800,Sensor Data Specilized
+PandaSet,2020,52,41200,All Inclusive
+PedX,2018,50,5000,Task Specific - Pedestrian
+RadarScenes,2021,50,,Sensor Data Specilized
+HAD Dataset,2019,49,,Task Specific - Other
+CCD ,2020,48,,Task Specific - Other
+Multimodal Audio-Visual Detection Dataset,2021,48,113283,Task Specific - Detection
+D2-city,2019,46,,Task Specific - Detection
+BLVD,2019,43,,All Inclusive
+CCTSDB 2021,2021,43,5268,Task Specific - Traffic Sign
+DDD20 ,2020,43,,Task Specific - Other
+Gated2Depth,2019,43,17686,Sensor Data Specilized
+STF,2019,41,35000,Bad Conditions
+Talk2Car,2019,41,,Task Specific - Other
+comma2k19 Dataset,2018,39,2000000,Task Specific - Lane Detection 
+DAWN,2020,39,4500,Bad Conditions
+"Drone-based RGB-Infrared Cross-Modality Vehicle
+Detection via Uncertainty-Aware Learning",2022,39,,V2V/V2X
+Traffic Control Gesture Recognition for Autonomous Vehicles,2020,37,839350,Task Specific - Other
+SegmentMeIfYouCan ,2021,37,100,Task Specific - Anomaly
+Raincouver ,2017,37,,Bad Conditions
+4Seasons,2020,36,,Bad Conditions
+PREVENTION ,2019,36,,Task Specific - Other
+NuPlan,2021,35,,Task Specific - Other
+ROAD,2021,34,,All Inclusive
+CCSAD Dataset,2015,33,96000,Task Specific - Other
+IDDA,2020,32,1006800,Task Specific - Segmentation
+RANUS,2018,32,40000,Sensor Data Specilized
+Apollo-DaoxiangLake Dataset,2020,32,,Task Specific - Other
+V2X-Sim,2021,31,10000,V2V/V2X
+LOKI,2021,31,,Task Specific - Other
+openDD,2020,30,81372,V2V/V2X
+Towards Large Scale Urban Traffic Reference Data: Smart Infrastructure in the Test Area Autonomous Driving Baden-Württemberg,2018,30,,V2V/V2X
+SemanticUSL,2021,29,,Task Specific - Other
+THE BOXY VEHICLES DATASET,2019,27,200000,Task Specific - Detection
+DIPLECS Datasets,2010,24,,Task Specific - Other
+Boreas,2023,24,7100,Task Specific - Other
+ AMUSE ,2013,23,108393,All Inclusive
+Brno Urban Dataset,2019,23,,All Inclusive
+LiDAR Snowfall Simulation for Robust 3D Object Detection,2022,22,,Bad Conditions
+"SODA10M
+Object Detection Dataset for Autonomous Driving",2021,22,,Task Specific - Detection
+CRUW Dataset ,2021,21,,Sensor Data Specilized
+SHIFT,2022,20,,All Inclusive
+SynWoodScape,2022,19,80000,Sensor Data Specilized
+Rope3D,2022,19,50000,Task Specific - Detection
+Multifog Kitti Dataset,2021,18,,Bad Conditions
+Large-scale Localization Datasets in Crowded Indoor Spaces,2021,16,130000,Task Specific - Segmentation
+exiD Dataset,2022,16,,V2V/V2X
+A9-Dataset,2022,15,,V2V/V2X
+TRoM Vision ,2017,15,,Task Specific - Segmentation
+Small obstacles ,2020,15,2927,Task Specific - Segmentation
+CODD ,2022,14,125,V2V/V2X
+CrashD dataset,2022,14,,Task Specific - Other
+Cirrus,2020,13,6285,Sensor Data Specilized
+Gated2Gated,2022,13,47420,Task Specific - Anomaly
+UNDD ,2019,13,7125,Bad Conditions
+AATEOTE,2020,12,,Bad Conditions
+"Mcity Data Collection 
+Study",2019,12,17500,All Inclusive
+ Sydney Campus Data Set,2020,12,,Task Specific - Other
+CarlaScenes,2022,10,,Task Specific - Other
+TJ4DRadSet,2022,10,40000,Sensor Data Specilized
+The Autonomous Platforms Inertial Dataset,2022,10,,Task Specific - Other
+OpenMPD,2020,8,,All Inclusive
+LUMPI,2022,7,,V2V/V2X
+DurLAR,2021,6,100000,Sensor Data Specilized
+Reasonable Crowd - Dataset ,2021,6,,Task Specific - Other
+PePScenes,2020,6,,Task Specific - Other
+K-Lane:,2022,6,15382,Sensor Data Specilized
+AUTOMATUM DATA,2021,6,,V2V/V2X
+MIT-AVT ,2020,6,,All Inclusive
+Daimler Pedestrian Segmentation Benchmark Dataset,2013,5,785,Task Specific - Pedestrian
+CeyMo,2021,5,2887,Task Specific - Traffic Sign
+MUAD,2022,5,10413,Task Specific - Anomaly
+IPS300+,2021,4,12000000,V2V/V2X
+MONA,2022,4,,Task Specific - Other
+A Dataset for Provident Vehicle Detection at Night,2021,4,59736,Bad Conditions
+DOLPHINS ,2022,3,292549,V2V/V2X
+V2V4Real,2023,3,310000,V2V/V2X
+"Two Video Data Sets for Tracking and Retrieval
+of Out of Distribution Objects",2022,3,,Task Specific - Anomaly
+SceNDD,2022,3,,Task Specific - Other
+Amodal Cityscapes,2022,3,5000,Task Specific - Segmentation
+RoadSaW,2022,3,720000,Task Specific - Other
+GLARE,2022,3,2157,Task Specific - Traffic Sign
+aiMotive Dataset,2022,2,26583,All Inclusive
+K-Radar,2023,2,,Sensor Data Specilized
+UrbanLaneGraph dataset,2023,2,,V2V/V2X
+All-In-One Drive,2020,1,100000,All Inclusive
+Robo3D,2023,1,,Task Specific - Other
+WEDGE,2023,1,3360,Bad Conditions
+I see you,2022,1,,V2V/V2X
+DRIV100,2021,1,,Task Specific - Segmentation
+WADS ,2023,0,,Bad Conditions
+Zenseact Open Dataset,2023,0,100000,All Inclusive
+ASAP Benchmark,2022,0,1200000,Task Specific - Detection
+Road Genome,2023,0,466000,Task Specific - Other
+CARLANE,2022,0,281000,Task Specific - Lane Detection 
+V2X-SeqVehicle,2023,0,15000,V2V/V2X
+"Towards Defensive Autonomous Driving:
+Collecting and Probing Driving Demonstrations of Mixed Qualitie",2020,0,62855,Task Specific - Anomaly
+SYDNEY URBAN OBJECTS DATASET,2013,,,Task Specific - Other
+Stanford Aerial Pedestrian Dataset ,2016,,,Task Specific - Pedestrian
+"San Francisco Landmark Dataset for Mobile Landmark Recognition
+",2011,,1700000,Task Specific - Other
+ GTSR/DB,2011,,50900,Task Specific - Traffic Sign
+CamVid,2008,,1080000,Task Specific - Segmentation
+Daimler Pedestrian Path Prediction Benchmark Dataset,2013,,16912,Task Specific - Pedestrian
+Daimler Stereo Pedestrian Detection Benchmark Dataset,2011,,21760,Task Specific - Pedestrian
+Tsinghua-Daimler Cyclist Detection Benchmark Dataset,2016,,,Task Specific - Pedestrian
+HD1K,2023,,1000,Task Specific - Other
+Ground Truth Stixel Dataset,2013,,,Task Specific - Other
+Udacity Dataset ,2020,,15000,Task Specific - Detection
+LISA ,2020,,,Task Specific - Traffic Sign
+Brain4Cars - Dataset ,2016,,,Task Specific - Other
+NEXET - A large and divers road dataset ,2017,,50000,Task Specific - Detection
+TuSimple,2017,,9000,Task Specific - Lane Detection 
+DDAD ,2020,,99600,Sensor Data Specilized
+Road Anomaly Dataset ,2019,,60,Task Specific - Anomaly
+MICC-SRI DATASET ,2019,,11913,Task Specific - Segmentation
+"Nocturne
+",2022,,,Task Specific - Other
+VIENA2,2018,,2250000,Task Specific - Other
+"WADS 
+",2021,,,Bad Conditions
+CODA,2022,,,Task Specific - Anomaly
+NEOLIX,2020,,30000,Task Specific - Detection
+SSCBench:,2023,,66928,Task Specific - Segmentation
+MIT driveseg ,2020,,,Task Specific - Segmentation
+nuImages,2020,,93000,Task Specific - Segmentation
+WildDash 2,2022,,,
+Vehicle Lane Merge Visual Benchmark,2020,,,Task Specific - Other
